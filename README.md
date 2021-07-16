@@ -1,2 +1,3 @@
-# Advancedadminplugin
-https://www.spigotmc.org/resources/advancedadmin.94311/
+Advancedadminplugin
+https://github.com/Niek12345/Advancedadminplugin/files/6831577/Advancedadmin.zip
+
